@@ -1,0 +1,65 @@
+Desafio Técnico – Processo seletivo de Instrução -
+Programa Analista de Dados
+Este desafio tem como objetivo compreender suas habilidades práticas em
+manipulação, integração e análise de dados, além da capacidade de comunicar
+resultados por meio de dashboards para suportar decisões estratégicas.
+O que você deve fazer:
+1. Carregar as três bases de dados abaixo, garantindo a correta associação e
+combinação das informações entre elas.
+2. Tratar os dados, realizando:
+● limpeza,
+● padronização,
+● ajuste de tipos,
+● tratamento de dados ausentes ou inconsistentes.
+3. Integrar as três bases em uma única base de dados unificada, relacionando as
+informações de forma consistente.
+4. Criar métricas relevantes a partir dos dados, como:
+● Percentual de frequência dos alunos.
+● Cálculo do NPS (Net Promoter Score) baseado nos índices de satisfação.
+● Índices de bem-estar e avaliação qualitativa.
+● Outras métricas que considerar importantes para análise da performance
+e clima educacional.
+5. Realizar uma análise exploratória inicial no Excel com a base unificada,
+aplicando as principais métricas e insights.
+6. Criar um dashboard no Power BI replicando essas análises e visualizações,
+contendo pelo menos três gráficos que facilitem a compreensão dos dados e
+apoiem a tomada de decisão estratégica pelos stakeholders.
+7. Elaborar um storytelling (apresentação) com os principais insights das análises,
+destacando:
+● as descobertas mais relevantes,
+● possíveis impactos,
+● recomendações para a gestão educacional.
+8. Exportar a base unificada final e os arquivos referentes às análises feitas.
+Requisitos adicionais:
+● Documente e comente todas as etapas do seu processo.
+● Justifique as escolhas feitas durante o tratamento, integração e análises dos
+dados.
+● Apresente insights e recomendações de melhoria baseados nas análises e
+visualizações.
+Bases de Dados – Desafio Técnico
+Clique nos links abaixo para fazer uma cópia dos arquivos em sua conta do Google
+Drive.
+1. 📄 dados alunos.csv
+● contém dados como nome, nota, presença e avaliação dos alunos.
+2. 📄 feedbacks_instrutor.txt
+● contém feedback qualitativo dos instrutores e índice quantitativo de bem-estar
+social
+3. 📊 dados_barometro.xlsx
+● contém indicadores de satisfação geral e clima
+Nota sobre o uso de Inteligência Artificial (IA)
+O uso de ferramentas de Inteligência Artificial (IA), como assistentes virtuais, geradores
+de código ou plataformas de apoio à análise de dados, é permitido neste desafio. No
+entanto, é essencial que você:
+● Justifique claramente quais ferramentas foram utilizadas e em quais etapas do
+processo.
+● Explique como a IA contribuiu para a sua solução, destacando decisões
+tomadas com base nos resultados gerados.
+● Garanta que o uso foi ético e responsável, respeitando os princípios de autoria,
+transparência e integridade intelectual.
+O objetivo é avaliar não apenas sua capacidade técnica, mas também sua habilidade de
+utilizar tecnologias emergentes de forma crítica e consciente.
+Este projeto avalia tanto sua habilidade técnica com dados heterogêneos quanto sua
+capacidade de gerar inteligência de negócio e comunicar resultados de forma clara e
+estratégica.
+Qualquer dúvida, estamos à disposição. Boa sorte!
+Equipe Generation
